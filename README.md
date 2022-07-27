@@ -7,4 +7,4 @@
 - git clone this repository
 - npm install
 - npm start
-#### Open the  [Live] server (https://restaurantapp-tailwind.vercel.app/ "Headi")
+#### Open the  [Live] server (https://restaurantapp-tailwind.vercel.app/ )
