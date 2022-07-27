@@ -30,7 +30,7 @@ import { ImHome} from 'react-icons/im'
  </div>
 
   {/* card button */}
-    <button className=' shadow-lg shadow-indigo-500/40 bg-red-700 text-white hidden md:flex items-center py-2 rounded-full ' >
+    <button className=' shadow-lg shadow-red-500/40 bg-red-700 text-white hidden md:flex items-center py-2 rounded-full ' >
         <BsFillCartFill size={20} className="mr-2" /> Sepetim
     </button>
     {/* mobile menu */}
